@@ -1,0 +1,15 @@
+.skills-section {
+    background-color: #1a1a1a;
+    padding: 4rem 2rem;
+    color: #fff;
+  }
+  
+  .skills-list {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    font-size: 1.1rem;
+  }
+  
